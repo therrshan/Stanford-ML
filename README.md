@@ -1,4 +1,4 @@
-![](https://github.com/therrshan/Stanford-ML/blob/master/machine-learning-ex1/Images/machine-learning-stanford-andrew-ng-course.png)
+<img src = "https://github.com/therrshan/Stanford-ML/blob/master/machine-learning-ex1/Images/machine-learning-stanford-andrew-ng-course.png" height = "200">
 
 **My Certification** - https://www.coursera.org/account/accomplishments/certificate/NRRAFPLB8L7C 
 

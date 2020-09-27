@@ -1,4 +1,4 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fneurohive.io%2Fen%2Fcourses%2Fandrew-ng-machine-learning-stanford%2F&psig=AOvVaw1_eawndTy9fgnnCA-qBz18&ust=1601299271075000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD2w-u2iewCFQAAAAAdAAAAABAW)
+![](https://github.com/therrshan/Stanford-ML/blob/master/machine-learning-ex1/Images/machine-learning-stanford-andrew-ng-course.png)
 
 **My Certification** - https://www.coursera.org/account/accomplishments/certificate/NRRAFPLB8L7C 
 

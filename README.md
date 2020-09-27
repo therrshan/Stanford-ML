@@ -36,4 +36,9 @@ MATLAB and Octave codes for Assignments of Stanfor Machine Learning course on co
 <img src="https://github.com/therrshan/Stanford-ML/blob/master/machine-learning-ex6/Images/1.png" alt="" width="400" height="300"><img src="https://github.com/therrshan/Stanford-ML/blob/master/machine-learning-ex6/Images/2.png" alt="" width="400" height="300">
 <img src="https://github.com/therrshan/Stanford-ML/blob/master/machine-learning-ex6/Images/3.png" alt="" width="400" height="300">
 
+### 6. K means Clustering and PCA
+* In this exercise, you will implement the K-means clustering algorithm and apply it to compress an image. In the second part, you will use principal component analysis to find a low-dimensional representation of face images.
+
+<img src="https://github.com/therrshan/Stanford-ML/blob/master/machine-learning-ex7/Images/1.png" alt="" width="400" height="300"><img src="https://github.com/therrshan/Stanford-ML/blob/master/machine-learning-ex7/Images/2.png" alt="" width="400" height="300">
+<img src="https://github.com/therrshan/Stanford-ML/blob/master/machine-learning-ex7/Images/3.png" alt="" width="400" height="300">
 
